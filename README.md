@@ -3,7 +3,8 @@
 ## [A Probabilistic Framework for RNA Velocity Statistical Tests Using Pyro](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/a-probabilistic-framework-for-rna-velocity-statistical-tests-using-pyro/)
 Luca Pinello, Eli Bingham, Gioele	La Manno
 
-Github repo:
+Github repo: https://github.com/pinellolab/pyrovelocity  
+Project website/documentation: https://pyrovelocity.readthedocs.io
 
 ## [Benchmarking of scRNA-Seq to Improve Human Health](https://chanzuckerberg.com/science/programs-resources/single-cell-biology/data-insights/benchmarking-of-scrna-seq-to-improve-human-health/)
 Elizabeth Purdom
